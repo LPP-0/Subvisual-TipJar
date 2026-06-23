@@ -103,7 +103,7 @@ Inside `/contracts`:
 PRIVATE_KEY=0xYOUR_ANVIL_PRIVATE_KEY
 ```
 
-Example:
+Example of a private key from Anvil:
 
 ```
 0xac0974bec39a17e36ba4a6b6d4d238ff944bacb478cbed5efcae784d7bf4f2ff80
