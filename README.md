@@ -142,7 +142,7 @@ TipJar deployed at: 0xNEW_DEPLOYED_ADDRESS
 Then update the frontend constant in `frontend/src/constants.ts`:
 
 ```ts
-export const TIP_JAR_ADDRESS = "0xNEW_DEPLOYED_ADDRESS"
+export const TIP_JAR_ADDRESS = '0xNEW_DEPLOYED_ADDRESS'
 ```
 
 ---
@@ -220,7 +220,7 @@ This project uses RainbowKit (powered by Reown) to:
 
 # ⚠️ Network Notice
 
-You may see "Wrong Network (Localhost)".
+You may see "Wrong Network".
 
 This is expected because:
 - The app runs on a local Anvil chain
