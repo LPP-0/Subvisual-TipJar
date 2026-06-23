@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# env
+.env
+
+# build outputs
+dist
+out
+cache
+
+# vscode
+.vscode
+*.code-workspace
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
